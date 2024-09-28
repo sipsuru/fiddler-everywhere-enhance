@@ -48,7 +48,7 @@ This repository is provided as an **educational resource** to:
 
 In the event that this repository or account is taken down for any reason, the source code and educational materials may be available at the following locations:
 
-- [Alternative Host URL](https://longshen.dev/fe/enhance-28-09-24.zip)
+- [Alternative Host URL](https://longshen.dev/)
   
 Please ensure that any use of this content complies with the relevant laws in your jurisdiction. This content is for **educational and non-commercial** use only.
 
