@@ -1,11 +1,11 @@
-# Fiddler Everywhere Patch Educational Non-Commercial License (FE Patch ENCL)
+# Fiddler Everywhere Enhance Educational Non-Commercial License (FE Enhance ENCL)
 ### Version 1.0, September 24, 2024
 
 ## Disclaimer
-***This software, "Fiddler Everywhere Patch (Automated/Manual)", is strictly intended & limited for educational purposes only!***
+***This software, "Fiddler Everywhere Enhance", is strictly intended & limited for educational purposes only!***
 
 ## Preamble
-This software, "Fiddler Everywhere Patch (Automated/Manual)", is distributed under the following custom license, combining the copyleft provisions of the GNU Affero General Public License (AGPL) and the non-commercial restrictions of the Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA). It is designed to keep the software open and non-commercial, intended solely for educational use.
+This software, "Fiddler Everywhere Enhance", is distributed under the following custom license, combining the copyleft provisions of the GNU Affero General Public License (AGPL) and the non-commercial restrictions of the Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA). It is designed to keep the software open and non-commercial, intended solely for educational use.
 
 ## 1. License Grant
 You are granted the rights to use, study, modify, and share this software under the following conditions:
